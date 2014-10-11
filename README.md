@@ -1,9 +1,9 @@
 ##Ova e test
 ###Marija e najubava
 
-*eden
-*dva
-*tri
+* eden
+* dva
+* tri
 
 something something 
 test
